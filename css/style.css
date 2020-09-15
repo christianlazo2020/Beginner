@@ -1,0 +1,30 @@
+.border {
+ border: solid 2px white;
+ background: darkorange;
+ padding: 10px;
+}
+.col-6 {
+    width: 50%;
+}
+.col-3 {
+    width: 8.33%;
+}
+.col-4 {
+    width: 33.3%;
+}
+* {
+    box-sizing: border-box; 
+}
+.col-7 {
+    width: 100%;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-30 {
+    width: 30%;
+}
+.col-70 {
+    width: 70%;
+}
